@@ -1,0 +1,33 @@
+#jumbotron{
+    background-image: url("HLImage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    filter: brightness(80%);
+
+}
+#tron{
+    text-align: center; 
+    font-family: Goudy Old Style; 
+    color: rgb(34, 4, 63);
+    
+}
+#diagnose{
+    margin-top: 4%;
+    margin-bottom: 4%;
+    background-color: rgb(34, 4, 63);
+}
+
+#treatment{
+    background-image: url("sleepless4.png");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position:center;
+    height: 100%;
+    width: 100%;
+}
+#treat{
+    margin: 5%;
+    text-align: left;
+    color: white;margin: 5%;
+     font-family: Comic Sans MS; 
+}
